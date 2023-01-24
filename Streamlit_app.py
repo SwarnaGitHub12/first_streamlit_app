@@ -52,4 +52,4 @@ streamlit.text(my_data_rows)
 
 fruit_choice1 = streamlit.text_input('What fruit would you like to add')
 
-streamlit.write('The user entered ', fruit_choice1)
+streamlit.write('Thanks for adding ', fruit_choice1)
